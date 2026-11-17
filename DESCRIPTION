@@ -3,10 +3,8 @@ Title: project code and narrative
 Version: 0.0.3
 Authors@R:
     person("Jeremiah Paul", "Gorremuchu",
-           email = "YOUR_EMAIL",
-           role = c("aut", "cre"))
            email = "jeremiah_gorremuchu@hsph.harvard.edu",
-           comment = c(ORCID = "0000-0002-1825-0097"))
+           role = c("aut", "cre"))
 Description: provide text on what your project emphasizes and 
 	accomplishes in three or more complete sentences.
 Depends: R (>= 4.5.0)

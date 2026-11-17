@@ -5,14 +5,17 @@ Authors@R:
     person("Jeremiah Paul", "Gorremuchu",
            email = "jeremiah_gorremuchu@hsph.harvard.edu",
            role = c("aut", "cre"))
-Description: provide text on what your project emphasizes and 
-	accomplishes in three or more complete sentences.
+Description: Provides public health datasets for the BST 260 final project.
+    Includes CDC data on waterborne and foodborne illness events, homicide
+    rates, and firearm mortality, along with RAND firearm legislation data.
+    Supplies documentation and a website to support exploration of these data.
 Depends: R (>= 4.5.0)
-Suggests: knitr, testthat, rmarkdown, pkgdown
+Suggests: knitr, testthat, rmarkdown, pkgdown, quarto
 License: Artistic-2.0
 VignetteBuilder: quarto
 Encoding: UTF-8
-URL: https://github.com/Jeremiah-PG/finalproject
+URL: https://github.com/Jeremiah-PG/finalproject,
+    https://jeremiah-pg.github.io/finalproject/
 BugReports: https://github.com/Jeremiah-PG/finalproject/issues
 Config/roxygen2/version: 8.1.1
 Roxygen: list(markdown=TRUE)

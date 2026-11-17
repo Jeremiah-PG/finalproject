@@ -1,6 +1,6 @@
 # License
 
-    MIT License
+    Artistic-2.0
 
     Copyright (c) 2026 Vince Carey
 
